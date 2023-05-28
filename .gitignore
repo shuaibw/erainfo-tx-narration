@@ -1,0 +1,15 @@
+share/
+Lib/
+Include/
+Scripts/
+
+.env
+env/
+.venv
+venv/
+ENV/
+
+*.csv
+*.log
+*.out
+*.cfg
