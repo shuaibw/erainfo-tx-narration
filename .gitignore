@@ -2,6 +2,7 @@ share/
 Lib/
 Include/
 Scripts/
+figures/
 
 .env
 env/
@@ -13,3 +14,4 @@ ENV/
 *.log
 *.out
 *.cfg
+*.xlsx
