@@ -15,3 +15,4 @@ ENV/
 *.cfg
 *.xlsx
 input/
+test2.ipynb
