@@ -16,3 +16,4 @@ ENV/
 *.xlsx
 input/
 test2.ipynb
+!output/*.csv
